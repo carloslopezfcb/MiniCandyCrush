@@ -23,7 +23,7 @@ enum FontStyle {
 	FONT_STYLE_ITALIC = TTF_STYLE_ITALIC,
 	FONT_STYLE_UNDERLINE = TTF_STYLE_UNDERLINE,
 	FONT_STYLE_NORMAL = TTF_STYLE_NORMAL
-};
+};//jkjjj
 
 // Biblical Renderer class to manage the View of the Game
 class Renderer {
